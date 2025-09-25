@@ -1,2 +1,5 @@
 Database/
 Leaf_Detection/models/
+.env/
+env/
+venv/
