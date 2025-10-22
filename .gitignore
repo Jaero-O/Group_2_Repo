@@ -1,5 +1,8 @@
 Database/
-Leaf_Detection/models/
+leaf-detection/models/
 .env/
 env/
 venv/
+Plant_Disease_Prediction/scripts/results/
+Plant_Disease_Prediction/data/
+results_log.txt
