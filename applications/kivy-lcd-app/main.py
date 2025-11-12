@@ -4,7 +4,7 @@ from kivy.uix.screenmanager import ScreenManager, Screen, FadeTransition
 from kivy.core.window import Window
 from kivy.utils import platform
 
-# ========== SCREEN SETTINGS ==========
+# ========== SCREEaN SETTINGS ==========
 WIDTH, HEIGHT = 360, 640
 
 # Detect platform
